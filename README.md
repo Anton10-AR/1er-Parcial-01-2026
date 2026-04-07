@@ -1,3 +1,3 @@
 # 1er-Parcial-01-2026
 
-Primer parcial que olvidé subir a Githug, mil disculpas ingeniero.
+Primer parcial que olvidé subir a Github, mil disculpas ingeniero.
